@@ -1,0 +1,27 @@
+{
+    "customer-details":{
+        "title":"Customer Details",
+        "customer_name":{
+            "label":"Customer Name",
+            "placeholder":"Richard Miller"
+        },
+        "customer_id":{
+            "label":"Customer Id"
+        },
+        "address":{
+            "label":"Delivery Address:",
+            "placeholder":"Enter delivery address here."
+        }
+    },
+    "order-details":{
+        "title":"Order Details",
+        "id":"Order Id",
+        "prod_name":"Product Name",
+        "price":"Price",
+        "quantity":"Quantity",
+        "total":"Total Price",
+        "sp_id":"Salesperson Id",
+        "orderedItems":"Ordered Items",
+        "summary":"Order Summary"
+    }
+}

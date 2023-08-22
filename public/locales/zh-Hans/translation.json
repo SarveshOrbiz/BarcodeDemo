@@ -1,0 +1,27 @@
+{ 
+    "customer-details":{ 
+        "title":"客户详情", 
+        "customer_name":{ 
+            "label":"客户姓名", 
+            "placeholder":"理查德·米勒" 
+        }, 
+        "customer_id":{ 
+            "label":"客户编号" 
+        },
+        "address":{
+            "label":"邮寄地址:",
+            "placeholder":"在此输入送货地址."
+        }
+    },
+    "order-details":{
+        "title":"订单详细信息",
+        "id":"订单编号",
+        "prod_name":"产品名称",
+        "price":"价格",
+        "quantity":"数量",
+        "total":"总价",
+        "sp_id":"营业员号码",
+        "orderedItems":"订购的商品",
+        "summary":"订单摘要"
+    } 
+}

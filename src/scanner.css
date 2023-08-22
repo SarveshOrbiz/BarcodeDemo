@@ -1,0 +1,16 @@
+.scanner{
+}
+
+video{
+    width: 500px;
+    border: 2px solid red;
+}
+
+.bar{
+    background-color: red;
+    height: 1px;
+    border: none;
+    width: 50%;
+    position: relative;
+    top:225px;
+}
